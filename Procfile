@@ -1,1 +1,1 @@
-web: html ./index.html $PORT
+web: nodejs ./index.html $PORT
